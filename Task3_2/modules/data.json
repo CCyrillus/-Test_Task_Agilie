@@ -1,0 +1,79 @@
+{
+    "aviableSizes": {"S":2, "M":2, "L":1, "XL":3, "XXL":4, "XXXL":8},
+    "participants": [
+        {
+            "name": "Alice",
+            "sizes": [
+                "S",
+                "M"
+            ]
+        },
+        {
+            "name": "Adam",
+            "sizes": [
+                "L"
+            ]
+        },
+        {
+            "name": "Char",
+            "sizes": [
+                "XL",
+                "L"
+            ]
+        },
+        {
+            "name": "Al",
+            "sizes": [
+                "S",
+                "M"
+            ]
+        },
+        {
+            "name": "Bob",
+            "sizes": [
+                "L",
+                "XL"
+            ]
+        },
+        {
+            "name": "Lie",
+            "sizes": [
+                "XXL",
+                "XXXL"
+            ]
+        },
+        {
+            "name": "ELiot",
+            "sizes": [
+                "S",
+                "M"
+            ]
+        },
+        {
+            "name": "Martin",
+            "sizes": [
+                "XL"
+            ]
+        },
+        {
+            "name": "Reg",
+            "sizes": [
+                "XXL",
+                "XXXL"
+            ]
+        },
+        {
+            "name": "Wer",
+            "sizes": [
+                "M"
+            ]
+        },
+        {
+            "name": "Tor",
+            "sizes": [
+                "XXL",
+                "XXXL"
+            ]
+        }
+    ]
+}
